@@ -96,3 +96,5 @@ I had no SystemVerilog or UVM background. I used an AI assistant to help me lear
 ## Author
 
 [RYAN CHEW] · [https://www.linkedin.com/in/chee-hoo-c-bb68a9123/?isSelfProfile=true]
+
+May refer to the EDAPlayground code here: https://edaplayground.com/x/VGYu
