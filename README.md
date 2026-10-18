@@ -49,7 +49,7 @@ Each scenario starts with a reset so earlier scenarios cannot affect later ones.
 
 1. Open [EDA Playground](https://www.edaplayground.com) and log in.
 2. Set the language to **SystemVerilog/Verilog**.
-3. Choose a simulator (I used **[SIMULATOR YOU USED]**).
+3. Choose a simulator (I used **[Icarus Verilog 12.0]**).
 4. Paste `testbench.sv` into the left pane and `design.sv` into the right pane.
 5. Tick **Open EPWave after run**, then click **Run**.
 
@@ -95,4 +95,4 @@ I had no SystemVerilog or UVM background. I used an AI assistant to help me lear
 
 ## Author
 
-[YOUR NAME] · [LINK TO YOUR LINKEDIN OR EMAIL]
+[RYAN CHEW] · [https://www.linkedin.com/in/chee-hoo-c-bb68a9123/?isSelfProfile=true]
