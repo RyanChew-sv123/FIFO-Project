@@ -73,28 +73,11 @@ All 33 checks pass across the three scenarios.
 
 <!-- Replace or add to this list with things that actually surprised you or went wrong. -->
 
-## Limitations and next steps
-
-Not tested yet:
-
-- Reading and writing in the same clock cycle
-- Reading from an empty FIFO and writing to a full FIFO, checking that nothing changes
-- Wrap-around while the FIFO is only partly full
-- Random data and random timing
-
-Next, I plan to:
-
-1. Add the missing directed tests above.
-2. Add SystemVerilog assertions (for example, `full` and `empty` never high together).
-3. Add functional coverage.
-4. Rebuild the testbench in UVM.
-
 ## How this was built
 
-I had no SystemVerilog or UVM background. I used an AI assistant to help me learn the concepts and to draft the code, then ran it, studied each part, and tested and modified it myself.
+I had no SystemVerilog or UVM background. I used an AI assistant to help me learn the concepts and to draft the code, then ran it, studied each part, and tested and modified it myself. 
 
 ## Author
 
 [RYAN CHEW] · [https://www.linkedin.com/in/chee-hoo-c-bb68a9123/?isSelfProfile=true]
 
-May refer to the EDAPlayground code here: https://edaplayground.com/x/VGYu
