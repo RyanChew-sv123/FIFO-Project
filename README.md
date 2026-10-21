@@ -4,6 +4,8 @@ A small, parameterized synchronous FIFO written in SystemVerilog, with a self-ch
 
 I built this to learn SystemVerilog and basic verification ideas in a few days, coming from a non-engineering background. It is a learning project, not production code.
 
+EDA Playground: https://edaplayground.com/x/VGYu
+
 ## Files
 
 | File | What it is |
@@ -80,4 +82,3 @@ I had no SystemVerilog or UVM background. I used an AI assistant to help me lear
 ## Author
 
 [RYAN CHEW] · [https://www.linkedin.com/in/chee-hoo-c-bb68a9123/?isSelfProfile=true]
-
